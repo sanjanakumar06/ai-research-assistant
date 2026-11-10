@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Local databases
+chroma_db/
+*.sqlite3
+
+# Uploaded documents
+uploads/
+
+# Frontend
+node_modules/
+dist/
+
+# macOS
+.DS_Store
