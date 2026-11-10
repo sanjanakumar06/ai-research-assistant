@@ -28,7 +28,7 @@ The application is being developed to allow users to upload PDFs, search their c
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sanjana-kumar-06/ai-research-assistant.git
+git clone https://github.com/sanjanakumar06/ai-research-assistant.git
 cd ai-research-assistant/backend
 ```
 
