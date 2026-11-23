@@ -9,6 +9,7 @@ __pycache__/
 .env
 .env.*
 !.env.example
+.venv-python313/
 
 # Local databases
 chroma_db/
